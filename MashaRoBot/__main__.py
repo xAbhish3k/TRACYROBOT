@@ -74,7 +74,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-`Hellow My name is` *Tracy*
+Hellow [😊](https://telegraph/file/199685f557f90f7bef272.jpg), I am Tracy  a highly advanced Bot.
 `I'm here to help you manage your groups! Hit` *📚Commands* `button below to find out more about how to use me to my full potential.` 
 """
 
@@ -98,7 +98,11 @@ buttons = [
 
 
 HELP_STRINGS = """
-*『HELP BUTTONS HERE』*"""
+`ʜɪ.. ɪ'ᴍ` [Tracy🙋‍♀️](https://telegra.ph/file/199685f557f90f7bef272.jpg) 
+`ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..`"""
+
+shasha_IMG = "https://telegra.ph/file/199685f557f90f7bef272.jpg"
+
 
 
 DONATE_STRING = """No need.. I'm rich"""
