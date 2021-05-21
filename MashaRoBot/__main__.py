@@ -81,7 +81,7 @@ Hellow [😊](https://telegraph/file/199685f557f90f7bef272.jpg), I am Tracy  a h
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ADD MASHA TO YOUR GROUP ➕️", url="t.me/TracyRoBot?startgroup=true"),
+            text="➕️ ADD TRACY TO YOUR GROUP ➕️", url="t.me/TracyRoBot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="ℹ️ ABOUT", callback_data="masha_"),
